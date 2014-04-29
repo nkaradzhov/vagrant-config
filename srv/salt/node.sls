@@ -12,6 +12,9 @@ npm:
 
 build-essential:
   pkg.installed
+
+ghc:
+  pkg.installed
     
 npminstall:
   cmd.run:
